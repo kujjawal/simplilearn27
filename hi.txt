@@ -4,4 +4,4 @@ Changes made by Ujjawal.. 7/7/2019.
 Changes made on 13th July for Testing auto build process.
 Changes pushed for slack notification.. 13th July.
 
-This change is being pushed to test Email and Slack integration.. Both at the same time. 13th July.
+This change is being pushed to test Email and Slack integration.. Both at the same time. 13th July. --> Modification --> Failure will trigger email
